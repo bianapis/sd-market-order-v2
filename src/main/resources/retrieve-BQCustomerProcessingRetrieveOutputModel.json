@@ -1,0 +1,39 @@
+{
+  "customerProcessingInstanceReport" : {
+    "customerProcessingInstanceReport" : {},
+    "customerProcessingInstanceReportParameters" : "customerProcessingInstanceReportParameters",
+    "customerProcessingInstanceReportRecord" : {},
+    "customerProcessingInstanceReportType" : "customerProcessingInstanceReportType"
+  },
+  "customerProcessingRetrieveActionTaskReference" : "CPRATR780177",
+  "customerProcessingInstanceAnalysis" : {
+    "customerProcessingInstanceAnalysisParameters" : "customerProcessingInstanceAnalysisParameters",
+    "customerProcessingInstanceAnalysisReport" : {},
+    "customerProcessingInstanceAnalysisReportType" : "customerProcessingInstanceAnalysisReportType",
+    "customerProcessingInstanceAnalysisRecord" : {}
+  },
+  "customerProcessingInstanceRecord" : {
+    "marketOrderCustomerProcessingCheckResult" : "marketOrderCustomerProcessingCheckResult"
+  },
+  "marketOrderTransactionInstanceRecord" : {
+    "employeeBusinessUnitReference" : "770858",
+    "correspondenceInstanceReference" : "792538",
+    "marketOrderType" : "marketOrderType",
+    "customerReference" : "714215",
+    "customerMarketOrderProcessingInstruction" : "customerMarketOrderProcessingInstruction",
+    "investmentPortfolioInstanceReference" : "736816",
+    "marketOrderTransaction" : {
+      "investmentAccountFulfillmentArrangementInstanceReference" : "786666",
+      "amount" : "USD 250",
+      "currentAccountFulfillmentArrangementInstanceReference" : "750039",
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "securityType" : "securityType",
+      "marketOrderType" : "marketOrderType"
+    },
+    "documentDirectoryEntryInstanceReference" : "792261"
+  },
+  "customerProcessingRetrieveActionResponse" : "customerProcessingRetrieveActionResponse",
+  "customerProcessingRetrieveActionTaskRecord" : {}
+}

@@ -1,0 +1,22 @@
+{
+  "marketOrderTransactionInstanceReference" : "MOTIR723814",
+  "marketOrderTransactionInstanceRecord" : {
+    "correspondenceInstanceReference" : "713593",
+    "marketOrderType" : "marketOrderType",
+    "customerMarketOrderProcessingInstruction" : "customerMarketOrderProcessingInstruction",
+    "marketOrderTransaction" : {
+      "investmentAccountFulfillmentArrangementInstanceReference" : "707371",
+      "amount" : "USD 250",
+      "currentAccountFulfillmentArrangementInstanceReference" : "772179",
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "securityType" : "securityType",
+      "marketOrderType" : "marketOrderType"
+    },
+    "documentDirectoryEntryInstanceReference" : "766500"
+  },
+  "marketOrderTransactionInitiateActionRecord" : {},
+  "marketOrderTransactionInstanceStatus" : "marketOrderTransactionInstanceStatus",
+  "marketOrderTransactionInitiateActionReference" : "MOTIAR784121"
+}

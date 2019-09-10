@@ -1,0 +1,41 @@
+{
+  "complianceInstanceAnalysis" : {
+    "complianceInstanceAnalysisRecord" : {},
+    "complianceInstanceAnalysisReportType" : "complianceInstanceAnalysisReportType",
+    "complianceInstanceAnalysisReport" : {},
+    "complianceInstanceAnalysisParameters" : "complianceInstanceAnalysisParameters"
+  },
+  "marketOrderTransactionInstanceRecord" : {
+    "employeeBusinessUnitReference" : "778609",
+    "correspondenceInstanceReference" : "769654",
+    "marketOrderType" : "marketOrderType",
+    "customerReference" : "744054",
+    "customerMarketOrderProcessingInstruction" : "customerMarketOrderProcessingInstruction",
+    "investmentPortfolioInstanceReference" : "718261",
+    "marketOrderTransaction" : {
+      "investmentAccountFulfillmentArrangementInstanceReference" : "775353",
+      "amount" : "USD 250",
+      "currentAccountFulfillmentArrangementInstanceReference" : "761371",
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "securityType" : "securityType",
+      "marketOrderType" : "marketOrderType"
+    },
+    "documentDirectoryEntryInstanceReference" : "751807"
+  },
+  "complianceRetrieveActionResponse" : "complianceRetrieveActionResponse",
+  "complianceInstanceRecord" : {
+    "marketOrderTransactionComplianceCheckType" : "marketOrderTransactionComplianceCheckType",
+    "marketOrderTransactionComplianceCheckResult" : "marketOrderTransactionComplianceCheckResult",
+    "marketOrderTransactionComplianceTaskResult" : "marketOrderTransactionComplianceTaskResult"
+  },
+  "complianceRetrieveActionTaskRecord" : {},
+  "complianceInstanceReport" : {
+    "complianceInstanceReportParameters" : "complianceInstanceReportParameters",
+    "complianceInstanceReportType" : "complianceInstanceReportType",
+    "complianceInstanceReport" : {},
+    "complianceInstanceReportRecord" : {}
+  },
+  "complianceRetrieveActionTaskReference" : "CRATR724974"
+}

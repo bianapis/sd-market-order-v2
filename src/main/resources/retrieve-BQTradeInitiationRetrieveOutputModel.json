@@ -1,0 +1,41 @@
+{
+  "tradeInitiationInstanceRecord" : {
+    "marketTradeInitiationTaskResult" : "marketTradeInitiationTaskResult",
+    "marketTradeTransactionInstanceReference" : "757307",
+    "marketTradeTransactionInstanceStatus" : "marketTradeTransactionInstanceStatus"
+  },
+  "tradeInitiationInstanceReport" : {
+    "tradeInitiationInstanceReportType" : "tradeInitiationInstanceReportType",
+    "tradeInitiationInstanceReportRecord" : {},
+    "tradeInitiationInstanceReport" : {},
+    "tradeInitiationInstanceReportParameters" : "tradeInitiationInstanceReportParameters"
+  },
+  "marketOrderTransactionInstanceRecord" : {
+    "employeeBusinessUnitReference" : "720151",
+    "correspondenceInstanceReference" : "786498",
+    "marketOrderType" : "marketOrderType",
+    "customerReference" : "715522",
+    "customerMarketOrderProcessingInstruction" : "customerMarketOrderProcessingInstruction",
+    "investmentPortfolioInstanceReference" : "781465",
+    "marketOrderTransaction" : {
+      "investmentAccountFulfillmentArrangementInstanceReference" : "767776",
+      "amount" : "USD 250",
+      "currentAccountFulfillmentArrangementInstanceReference" : "786592",
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "securityType" : "securityType",
+      "marketOrderType" : "marketOrderType"
+    },
+    "documentDirectoryEntryInstanceReference" : "789132"
+  },
+  "tradeInitiationRetrieveActionTaskRecord" : {},
+  "tradeInitiationRetrieveActionResponse" : "tradeInitiationRetrieveActionResponse",
+  "tradeInitiationInstanceAnalysis" : {
+    "tradeInitiationInstanceAnalysisReportType" : "tradeInitiationInstanceAnalysisReportType",
+    "tradeInitiationInstanceAnalysisReport" : {},
+    "tradeInitiationInstanceAnalysisRecord" : {},
+    "tradeInitiationInstanceAnalysisParameters" : "tradeInitiationInstanceAnalysisParameters"
+  },
+  "tradeInitiationRetrieveActionTaskReference" : "TIRATR715596"
+}

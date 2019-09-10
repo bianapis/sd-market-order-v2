@@ -1,0 +1,34 @@
+{
+  "marketOrderTransactionRetrieveActionTaskReference" : "MOTRATR787973",
+  "marketOrderTransactionInstanceReportRecord" : {
+    "marketOrderTransactionInstanceReportType" : "marketOrderTransactionInstanceReportType",
+    "marketOrderTransactionInstanceReport" : {},
+    "marketOrderTransactionInstanceReportData" : "marketOrderTransactionInstanceReportData"
+  },
+  "marketOrderTransactionInstanceRecord" : {
+    "employeeBusinessUnitReference" : "757692",
+    "correspondenceInstanceReference" : "775002",
+    "marketOrderType" : "marketOrderType",
+    "customerReference" : "748510",
+    "customerMarketOrderProcessingInstruction" : "customerMarketOrderProcessingInstruction",
+    "investmentPortfolioInstanceReference" : "741134",
+    "marketOrderTransaction" : {
+      "investmentAccountFulfillmentArrangementInstanceReference" : "787405",
+      "amount" : "USD 250",
+      "currentAccountFulfillmentArrangementInstanceReference" : "711955",
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "securityType" : "securityType",
+      "marketOrderType" : "marketOrderType"
+    },
+    "documentDirectoryEntryInstanceReference" : "707618"
+  },
+  "marketOrderTransactionInstanceAnalysis" : {
+    "marketOrderTransactionInstanceAnalysisData" : "marketOrderTransactionInstanceAnalysisData",
+    "marketOrderTransactionInstanceAnalysisReport" : {},
+    "marketOrderTransactionInstanceAnalysisReportType" : "marketOrderTransactionInstanceAnalysisReportType"
+  },
+  "marketOrderTransactionRetrieveActionResponse" : "marketOrderTransactionRetrieveActionResponse",
+  "marketOrderTransactionRetrieveActionTaskRecord" : {}
+}

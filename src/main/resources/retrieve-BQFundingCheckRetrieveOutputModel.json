@@ -1,0 +1,39 @@
+{
+  "fundingCheckRetrieveActionTaskRecord" : {},
+  "fundingCheckInstanceReport" : {
+    "fundingCheckInstanceReport" : {},
+    "fundingCheckInstanceReportRecord" : {},
+    "fundingCheckInstanceReportType" : "fundingCheckInstanceReportType",
+    "fundingCheckInstanceReportParameters" : "fundingCheckInstanceReportParameters"
+  },
+  "marketOrderTransactionInstanceRecord" : {
+    "employeeBusinessUnitReference" : "721346",
+    "correspondenceInstanceReference" : "748151",
+    "marketOrderType" : "marketOrderType",
+    "customerReference" : "733425",
+    "customerMarketOrderProcessingInstruction" : "customerMarketOrderProcessingInstruction",
+    "investmentPortfolioInstanceReference" : "700222",
+    "marketOrderTransaction" : {
+      "investmentAccountFulfillmentArrangementInstanceReference" : "704318",
+      "amount" : "USD 250",
+      "currentAccountFulfillmentArrangementInstanceReference" : "752151",
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "securityType" : "securityType",
+      "marketOrderType" : "marketOrderType"
+    },
+    "documentDirectoryEntryInstanceReference" : "747186"
+  },
+  "fundingCheckRetrieveActionTaskReference" : "FCRATR736096",
+  "fundingCheckRetrieveActionResponse" : "fundingCheckRetrieveActionResponse",
+  "fundingCheckInstanceAnalysis" : {
+    "fundingCheckInstanceAnalysisParameters" : "fundingCheckInstanceAnalysisParameters",
+    "fundingCheckInstanceAnalysisReport" : {},
+    "fundingCheckInstanceAnalysisRecord" : {},
+    "fundingCheckInstanceAnalysisReportType" : "fundingCheckInstanceAnalysisReportType"
+  },
+  "fundingCheckInstanceRecord" : {
+    "marketOrderTransactionFundingCheckResult" : "marketOrderTransactionFundingCheckResult"
+  }
+}
